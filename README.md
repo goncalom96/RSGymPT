@@ -1,11 +1,13 @@
 RSGymPT Application
-- First project developed under Cegid Primavera's Re_Start programme.
-- Description: RSGymPT is an application developed to offer a personal trainer service at home.
 
-Functionalities
+Description: 
+- First project developed under Cegid Primavera's Re_Start programme.
+- RSGymPT is an application developed to offer a personal trainer service at home.
+
+Functionalities:
 - CRUD Operations: Implements create, list, update, and delete operations for users, personal trainers, and home session requests.
 
-Technical Specifications
+Technical Specifications:
 - IDE: Visual Studio 2019
 - Framework: .NET Framework 4.7.2
 - Projects: Class Library and Console Application
