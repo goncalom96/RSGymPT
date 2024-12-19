@@ -24,7 +24,7 @@ How to Use:
 2) Set Up the Database:
 - Open the project in Visual Studio;
 - In the Package Manager Console:
-  -> Select "RSGymPT_DAL" as the default project;
-  -> Type the following command:
+  - Select "RSGymPT_DAL" as the default project;
+  - Type the following command:
     - update-database
 3) Run the Application.
