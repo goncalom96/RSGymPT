@@ -1,5 +1,5 @@
-Application
-- Name: RSGymPT
+RSGymPT Application
+- First project developed under Cegid Primavera's Re_Start programme.
 - Description: RSGymPT is an application developed to offer a personal trainer service at home.
 
 Functionalities
