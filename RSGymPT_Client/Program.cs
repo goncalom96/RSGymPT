@@ -13,7 +13,7 @@ namespace RSGymPT_Client
 
             try
             {
-                // Dados iniciais:
+                // Dados iniciais da APP
                 // É suposto ser executado apenas uma vez
 
                 #region Starting Data
